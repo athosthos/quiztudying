@@ -1,0 +1,222 @@
+[
+  {
+    "question": "1. Qual grupo muscular forma o manguito rotador, estrutura frequentemente lesionada em arremessadores e atletas de alta performance?",
+    "options": [
+      "Deltóide, Peitoral Maior, Coracobraquial e Bíceps Braquial",
+      "Supra-espinal, Infra-espinal, Redondo Menor e Subescapular",
+      "Rombóide Maior, Rombóide Menor, Trapézio e Levantador da Escápula",
+      "Redondo Maior, Latíssimo do Dorso, Tríceps Braquial e Subclávio"
+    ],
+    "correct": 1,
+    "explanation": "O manguito rotador é composto por 4 músculos: Supra-espinal, Infra-espinal, Redondo Menor e Subescapular (memorizado pela sigla SITS). Eles estabilizam a articulação glenoumeral."
+  },
+  {
+    "question": "2. Identifique o músculo em forma de leque que se insere ao longo da margem medial da escápula (visão anterior) e atua na protrusão da escápula e rotação superior da cavidade glenoidal:",
+    "options": [
+      "Peitoral Maior",
+      "Serrátil Anterior",
+      "Trapézio",
+      "Rombóide Maior"
+    ],
+    "correct": 1,
+    "explanation": "O Serrátil Anterior origina-se nas costelas I a VIII/IX e fixa a escápula contra a parede torácica. A sua paralisia gera o quadro clínico de 'escápula alada'."
+  },
+  {
+    "question": "3. Qual é o principal músculo responsável pela ABDUÇÃO na articulação do ombro (a partir de 15 graus de amplitude)?",
+    "options": [
+      "Peitoral Maior",
+      "Coracobraquial",
+      "Deltóide",
+      "Subescapular"
+    ],
+    "correct": 2,
+    "explanation": "O músculo Deltóide é o motor primário da abdução do braço no ombro. Os primeiros 0-15° de abdução são iniciados pelo músculo Supra-espinal."
+  },
+  {
+    "question": "4. Quais são os dois músculos que atuam produzindo EXTENSÃO, ADUÇÃO e ROTAÇÃO MEDIAL na articulação do ombro?",
+    "options": [
+      "Bíceps braquial e Coracobraquial",
+      "Latíssimo do dorso e Redondo maior",
+      "Peitoral menor e Serrátil anterior",
+      "Infra-espinal e Redondo menor"
+    ],
+    "correct": 1,
+    "explanation": "Tanto o Latíssimo do Dorso quanto o Redondo Maior realizam a tríade de ações: extensão, adução e rotação medial do úmero."
+  },
+  {
+    "question": "5. Qual é o ponto de inserção terminal do músculo Peitoral Menor?",
+    "options": [
+      "Tubérculo maior do úmero",
+      "Espinha da escápula",
+      "Processo coracóide da escápula",
+      "Tuberosidade do rádio"
+    ],
+    "correct": 2,
+    "explanation": "O Peitoral Menor origina-se na superfície anterior das costelas III a V e insere-se no processo coracóide da escápula."
+  },
+  {
+    "question": "6. O músculo Trapézio tem sua inervação motora fornecida por qual nervo?",
+    "options": [
+      "Nervo Torácico Longo (C5-C7)",
+      "Nervo Acessório (NC XI)",
+      "Nervo Axilar (C5-C6)",
+      "Nervo Musculocutâneo (C5-C7)"
+    ],
+    "correct": 1,
+    "explanation": "O Músculo Trapézio é inervado pelo 11º nervo craniano, o Nervo Acessório (NC XI), além de receber fibras sensitivas de C3-C4."
+  },
+  {
+    "question": "7. Qual músculo origina-se nos processos transversos das vértebras C1-C4 e tem como ação principal a elevação da escápula?",
+    "options": [
+      "Levantador da escápula",
+      "Rombóide menor",
+      "Subclávio",
+      "Supra-espinal"
+    ],
+    "correct": 0,
+    "explanation": "O Levantador da escápula origina-se nos processos transversos de C1-C4 e insere-se na margem medial superior da escápula, elevando este osso."
+  },
+  {
+    "question": "8. Qual é a inserção terminal comum aos músculos Supra-espinal, Infra-espinal e Redondo Menor?",
+    "options": [
+      "Tubérculo menor do úmero",
+      "Tubérculo maior do úmero",
+      "Sulco intertubercular do úmero",
+      "Processo coracóide"
+    ],
+    "correct": 1,
+    "explanation": "O Supra-espinal, Infra-espinal e Redondo Menor inserem-se em facetas sequenciais do Tubérculo Maior do úmero. Já o Subescapular insere-se no Tubérculo Menor."
+  },
+  {
+    "question": "9. Qual músculo do manguito rotador é responsável especificamente pela ROTAÇÃO MEDIAL do braço e se insere no Tubérculo Menor do úmero?",
+    "options": [
+      "Infra-espinal",
+      "Redondo menor",
+      "Subescapular",
+      "Deltóide (porção posterior)"
+    ],
+    "correct": 2,
+    "explanation": "O Subescapular ocupa a fossa subescapular e insere-se no tubérculo menor, promovendo a rotação medial (interna) do ombro."
+  },
+  {
+    "question": "10. O músculo Coracobraquial origina-se no processo coracóide e realiza quais movimentos no ombro?",
+    "options": [
+      "Abdução e Extensão",
+      "Adução e Flexão",
+      "Rotação Lateral e Extensão",
+      "Protrusão e Elevação"
+    ],
+    "correct": 1,
+    "explanation": "O Coracobraquial insere-se na margem medial da diáfise do úmero, auxiliando na flexão e adução do braço."
+  },
+  {
+    "question": "11. Qual nervo é responsável pela inervação tanto do Músculo Deltóide quanto do Músculo Redondo Menor?",
+    "options": [
+      "Nervo Radial",
+      "Nervo Axilar",
+      "Nervo Musculocutâneo",
+      "Nervo Toracodorsal"
+    ],
+    "correct": 1,
+    "explanation": "O Nervo Axilar (raízes C5-C6) passa pelo espaço quadrangular e inerva os músculos Deltóide e Redondo Menor."
+  },
+  {
+    "question": "12. Onde se insere distalmente o músculo Bíceps Braquial para exercer suas ações no cotovelo e antebraço?",
+    "options": [
+      "Olecrano da ulna",
+      "Processo coronóide da ulna",
+      "Tuberosidade do rádio",
+      "Epicôndilo lateral do úmero"
+    ],
+    "correct": 2,
+    "explanation": "O tendão distal do Bíceps Braquial insere-se na tuberosidade do rádio, atuando na flexão do cotovelo e como um potente supinador do antebraço."
+  },
+  {
+    "question": "13. Qual dos seguintes músculos NÃO faz parte do grupo de músculos que posicionam a escápula/cíngulo do membro superior?",
+    "options": [
+      "Rombóide Maior",
+      "Peitoral Menor",
+      "Coracobraquial",
+      "Subclávio"
+    ],
+    "correct": 2,
+    "explanation": "O Coracobraquial atua movimentando o braço (úmero) na articulação do ombro. Os demais (Rombóides, Peitoral Menor, Subclávio, Trapézio, Serrátil) atuam no cíngulo."
+  },
+  {
+    "question": "14. Os músculos Rombóide Maior e Rombóide Menor são inervados por qual estrutura nervosa?",
+    "options": [
+      "Nervo Dorsal da Escápula",
+      "Nervo Supra-escapular",
+      "Nervo Torácico Longo",
+      "Nervo Peitoral Medial"
+    ],
+    "correct": 0,
+    "explanation": "O Nervo Dorsal da Escápula (C5) inerva os músculos Rombóide Maior, Rombóide Menor e também o Levantador da Escápula."
+  },
+  {
+    "question": "15. Qual é a ação principal do Músculo Subclávio?",
+    "options": [
+      "Elevar a primeira costela na inspiração",
+      "Abaixar e protrair o ombro / estabilizar a clavícula",
+      "Realizar a rotação lateral do braço",
+      "Elevar e retrair a escápula"
+    ],
+    "correct": 1,
+    "explanation": "O Subclávio localiza-se entre a 1ª costela e a superfície inferior da clavícula, tracionando a clavícula para baixo e estabilizando a articulação esternoclavicular."
+  },
+  {
+    "question": "16. Quais músculos são os principais responsáveis pela ROTAÇÃO LATERAL da articulação do ombro?",
+    "options": [
+      "Subescapular e Peitoral maior",
+      "Infra-espinal e Redondo menor",
+      "Redondo maior e Latíssimo do dorso",
+      "Serrátil anterior e Coracobraquial"
+    ],
+    "correct": 1,
+    "explanation": "O Infra-espinal e o Redondo Menor fixam-se na face posterior do tubérculo maior do úmero e rodam o braço lateralmente."
+  },
+  {
+    "question": "17. A lesão do Nervo Torácico Longo causa perda funcional de qual músculo, resultando na condição conhecida como 'escápula alada'?",
+    "options": [
+      "Trapézio",
+      "Serrátil Anterior",
+      "Levantador da Escápula",
+      "Latíssimo do Dorso"
+    ],
+    "correct": 1,
+    "explanation": "O Nervo Torácico Longo inerva o Serrátil Anterior. Se houver lesão, a borda medial da escápula projeta-se posteriormente, gerando a escápula alada."
+  },
+  {
+    "question": "18. A contração isolada da porção clavicular (anterior) do Músculo Deltóide produz quais movimentos?",
+    "options": [
+      "Extensão e Rotação Lateral do ombro",
+      "Flexão e Rotação Medial do ombro",
+      "Adução pura do braço",
+      "Depressão do cíngulo do membro superior"
+    ],
+    "correct": 1,
+    "explanation": "A porção anterior (clavicular) flete e roda medialmente o braço; a porção média abduz; e a porção posterior estende e roda lateralmente."
+  },
+  {
+    "question": "19. Qual nervo supre o Músculo Latíssimo do Dorso?",
+    "options": [
+      "Nervo Toracodorsal (C6-C8)",
+      "Nervo Axilar (C5-C6)",
+      "Nervo Musculocutâneo (C5-C7)",
+      "Nervo Subescapular Superior (C5-C6)"
+    ],
+    "correct": 0,
+    "explanation": "O Latíssimo do Dorso é inervado pelo Nervo Toracodorsal (C6-C8), oriundo do fascículo posterior do plexo braquial."
+  },
+  {
+    "question": "20. Qual estrutura de tecido conectivo espessado na face posterior do punho mantém os tendões extensores alinhados junto aos ossos?",
+    "options": [
+      "Aponeurose palmar",
+      "Retináculo dos extensores",
+      "Retináculo dos flexores",
+      "Ligamento carpal palmar"
+    ],
+    "correct": 1,
+    "explanation": "O Retináculo dos Extensores é uma faixa transversal que retém os tendões dos músculos extensores na região posterior do punho."
+  }
+]
